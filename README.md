@@ -11,6 +11,6 @@
 * **歷屆成績的起伏顯示考試難度對答對題數影響顯著**
   * 通過分析各校在特定屆次中的低表現，我們可以識別學生在應對某些題型時的薄弱點，從而強化相關輔導，提升下一次考試表現。這種分析也有助於學生自我評估，調整學習策略，並加強在特定題型或難度上的學習。
 * **四大VS海大資工歷年平均成績趨勢圖**<br>
-  ![image](https://github.com/user-attachments/assets/c6f00364-cc62-428f-97e9-bd0aa27adafd)
+  <img src="https://github.com/user-attachments/assets/c6f00364-cc62-428f-97e9-bd0aa27adafd" style="width: 500px; height: auto;">
 * **四中VS海大資工歷年平均成績趨勢圖**<br>
-  ![image](https://github.com/user-attachments/assets/a2045b5f-dda9-4331-90fc-042d5ade6d57)
+  <img src="https://github.com/user-attachments/assets/a2045b5f-dda9-4331-90fc-042d5ade6d57" style="width: 500px; height: auto;">
